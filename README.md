@@ -119,7 +119,7 @@ verification.
 
 If you use this dataset, please cite:
 - **[Haiye yu, Bingze Li, Yuanyuan Sui]**, **[2026]**. *Improved stage specific parameterization for maize canopy biophysical parameters based on LAI trajectory segmentation*.
-  GitHub repository: **[INSERT REPOSITORY URL]**.
+  GitHub repository: **[https://github.com/Espoir59995/KS-maize-biophysical-dataset.git]**.
 
 (The DOI will be provided later.)
 
